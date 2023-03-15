@@ -1,6 +1,6 @@
-# concatenated Autoencoder for joint embedding of ATAC and scRNAseq
+# Concatenated Autoencoder for joint embedding of ATAC and scRNAseq
 
-Single cell joint embedding using a concatenated Autoencoder. We obtained the **first place** in the [NeurIPS 2021 single cell competition](https://openproblems.bio/neurips_2021/) Joint Embedding task without pre-training[1].
+Single cell joint embedding using a concatenated Autoencoder. We obtained the **first place** in the [NeurIPS 2021 single cell competition](https://openproblems.bio/competitions/neurips_2021/) Joint Embedding task without pre-training[1].
 
 ## Model description
 
